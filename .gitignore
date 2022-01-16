@@ -1,0 +1,11 @@
+# IDEs
+.idea
+.vscode
+
+
+node_modules/
+
+# Logs
+logs
+*.log
+.pnpm-debug.log*
